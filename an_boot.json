@@ -10,7 +10,7 @@
         "url": "https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8",
         "youtube": "",
         "tag": "News",
-        "site": "https://www3.nhk.or.jp/nhkworld/en/live/"
+        "site": "https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8/"
     },
     
     "Kuriakos": {
@@ -20,19 +20,6 @@
     	"site": "http://www.kuriakos-tv.com/"
     },
     
-    "TV Florida": {
-    	"url": "https://srv1.zcast.com.br/tvflorida/tvflorida/playlist.m3u8",
-    	"youtube": "",
-        "tag": "News",
-    	"site": "https://tvfloridausa.com/ao-vivo/"
-    },
-    
-    "TV Max Rio": {
-    	"url": "https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8",
-    	"youtube": "",
-    	"tag": "Misc",
-    	"site": "https://www.tvmaxrio.net/"
-    },
     "Canale 7": {
         "url": "https://59d7d6f47d7fc.streamlock.net/canale7/canale7/chunklist_w534523333.m3u8",
         "youtube": "",
