@@ -7,12 +7,23 @@
     },
 
     "NHK": {
-        "url": "https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8",
+        "url": "https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8",
         "youtube": "",
         "tag": "News",
         "site": "https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8/"
     },
-    
+    "Haberturk": {
+        "url": "https://tv.ensonhaber.com/haberturk/haberturk.m3u8",
+        "youtube": "",
+        "tag": "News",
+        "site": ""
+    },
+    "TRT Turk": {
+        "url": "https://tv-trtturk.medya.trt.com.tr/master.m3u8",
+        "youtube": "",
+        "tag": "News",
+        "site": ""
+    },
     "Kuriakos": {
     	"url": "https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8",
     	"youtube": "",
@@ -62,11 +73,5 @@
         "youtube": "",
         "tag": "News",
         "site": "https://www.cgtn.com/tv"
-    },
-    "Jovem Pan": {
-        "url": "https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_2.m3u8",
-        "youtube": "",
-        "tag": "News",
-        "site": "https://jovempan.com.br/"
     }
 }
