@@ -24,6 +24,12 @@
         "tag": "News",
         "site": ""
     },
+    "TRT World": {
+        "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
+        "youtube": "",
+        "tag": "News",
+        "site": ""
+    },
     "Kuriakos": {
     	"url": "https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8",
     	"youtube": "",
