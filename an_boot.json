@@ -3,7 +3,7 @@
         "url": "http://170.83.16.50/NHK_WORLD/index.m3u8",
         "youtube": "",
         "tag": "News",
-        "site": "https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8/"
+        "site": "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8"
     },
     "Haberturk": {
         "url": "https://tv.ensonhaber.com/haberturk/haberturk.m3u8",
